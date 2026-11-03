@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>OneApple</title>
+    <link id="favicon" rel="icon" href="data:image/x-icon;base64,">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div id="main-layout">
+    <div id="sidebar">
+        <div id="preview-container">
+            <video id="badapple-video" src="badapple.mp4" playsinline autoplay></video>
+        </div>
+        
+        <div id="log-panel">
+            <div>Status: <span id="log-status">Waiting...</span></div>
+            <div>Time: <span id="log-time">0.00s</span></div>
+            <div>Grid: <span id="log-grid">64x48</span></div>
+            <hr style="border-color: #222; margin: 6px 0;">
+            <div>Face hovered on:</div>
+            <div id="log-face" style="color: #61afef; word-break: break-all;">None..</div>
+        </div>
+
+        <div id="inspect-modal" class="modal hidden">
+            <div class="modal-content">
+                <span id="close-modal">&times;</span>
+                <h3>Inspect sprite</h3>
+                <div style="display: flex; gap: 15px; align-items: center; margin-top: 10px;">
+                    <img id="modal-img" src="" alt="face" style="width: 96px; height: 96px; border: 1px solid #555; background: #000;">
+                    <div style="font-size: 12px; line-height: 1.5;">
+                        <div>File: <span id="modal-file" style="color: #61afef;">-</span></div>
+                        <div>Brightness: <span id="modal-brightness" style="color: #4af626;">-</span></div>
+                        <div>Grid pos: <span id="modal-pos" style="color: #e5c07b;">-</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="right-column">
+        <div id="canvas-container">
+            <canvas id="canvas"></canvas>
+        </div>
+
+        <div class="scrub-container">
+            <span style="font-size: 11px; color: #888;" id="current-time-label">0:00</span>
+            <input type="range" id="seek-bar" value="0" min="0" max="100" step="0.1">
+        </div>
+
+        <div class="controls">
+            <button id="play-btn">Play / Pause</button>
+            <button id="toggle-preview-btn">Toggle preview: shown</button>
+            <button id="reset-zoom-btn">Reset zoom/pan</button>
+            <button id="snapshot-btn">Snapshot frame</button>
+            <!-- <button id="record-btn">Record & save as video</button> -->
+             <!-- laggy -->
+        </div>
+
+        <div style="text-align: center; margin-top: 15px; width: 100%;">
+            <div style="font-size: 11px; color: #888; margin-bottom: 6px;">Grid mode:</div>
+            <div class="controls" style="margin-top: 0;">
+                <button class="grid-btn" data-cols="32" data-rows="24">32x24 (Shite)</button>
+                <button class="grid-btn" data-cols="64" data-rows="48" style="background: #444;">64x48 (Standard)</button>
+                <button class="grid-btn" data-cols="96" data-rows="72">96x72 (Good enough)</button>
+                <button class="grid-btn" data-cols="128" data-rows="96">128x96 (May lag)</button>
+            </div>
+        </div>
+
+        <div id="frame-console">
+            <div style="color: #fff; font-weight: bold; margin-bottom: 6px; border-bottom: 1px solid #222; padding-bottom: 4px;">Faces on current frame:</div>
+            <div id="frame-faces-list">None..</div>
+        </div>
+    </div>
+</div>
+
+    <!-- DND!!!!!!! -->
+    <canvas id="offscreen-canvas" class="hidden" style="display:none;"></canvas>
+    <canvas id="favicon-canvas" width="32" height="32" style="display:none;"></canvas>
+
+    <footer>
+        <span>Made by Nightregion</span>
+        <span>&bull;</span>
+        <a href="https://github.com/frizzy-cmd" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </footer>
+
+    <script src="js/main.js" type="module"></script>
+</body>
+</html>

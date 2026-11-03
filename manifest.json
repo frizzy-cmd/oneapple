@@ -1,0 +1,818 @@
+[
+  {
+    "file": "plight_unknown.png",
+    "brightness": 6
+  },
+  {
+    "file": "calamus_unknown.png",
+    "brightness": 7
+  },
+  {
+    "file": "rue_dark.png",
+    "brightness": 12
+  },
+  {
+    "file": "mason.png",
+    "brightness": 20
+  },
+  {
+    "file": "blue_gatekeeper.png",
+    "brightness": 35
+  },
+  {
+    "file": "rowbot_off.png",
+    "brightness": 37
+  },
+  {
+    "file": "kelvin.png",
+    "brightness": 41
+  },
+  {
+    "file": "red_gatekeeper.png",
+    "brightness": 46
+  },
+  {
+    "file": "en_gasmask.png",
+    "brightness": 48
+  },
+  {
+    "file": "green_gatekeeper.png",
+    "brightness": 52
+  },
+  {
+    "file": "bookbot.png",
+    "brightness": 54
+  },
+  {
+    "file": "niko_gasmask.png",
+    "brightness": 59
+  },
+  {
+    "file": "rowbot.png",
+    "brightness": 59
+  },
+  {
+    "file": "en_cry.png",
+    "brightness": 60
+  },
+  {
+    "file": "cedric4.png",
+    "brightness": 62
+  },
+  {
+    "file": "cedric.png",
+    "brightness": 63
+  },
+  {
+    "file": "cedric2.png",
+    "brightness": 63
+  },
+  {
+    "file": "cedric3.png",
+    "brightness": 63
+  },
+  {
+    "file": "cedric_talk.png",
+    "brightness": 63
+  },
+  {
+    "file": "en_eyeclosed.png",
+    "brightness": 63
+  },
+  {
+    "file": "calamus_sad.png",
+    "brightness": 64
+  },
+  {
+    "file": "cedric_hmm.png",
+    "brightness": 64
+  },
+  {
+    "file": "cedric_sigh.png",
+    "brightness": 64
+  },
+  {
+    "file": "cedric_smile.png",
+    "brightness": 64
+  },
+  {
+    "file": "en_eyeclosed2.png",
+    "brightness": 64
+  },
+  {
+    "file": "en_less_sad.png",
+    "brightness": 64
+  },
+  {
+    "file": "en_upset.png",
+    "brightness": 64
+  },
+  {
+    "file": "en_upset2.png",
+    "brightness": 64
+  },
+  {
+    "file": "en_yawn.png",
+    "brightness": 64
+  },
+  {
+    "file": "alula_speak.png",
+    "brightness": 65
+  },
+  {
+    "file": "cedric_sigh2.png",
+    "brightness": 65
+  },
+  {
+    "file": "cedric_upset.png",
+    "brightness": 65
+  },
+  {
+    "file": "en_distressed.png",
+    "brightness": 65
+  },
+  {
+    "file": "en_distressed2.png",
+    "brightness": 65
+  },
+  {
+    "file": "en_distressed_meow.png",
+    "brightness": 65
+  },
+  {
+    "file": "en_distressed_talk.png",
+    "brightness": 65
+  },
+  {
+    "file": "en_sad.png",
+    "brightness": 65
+  },
+  {
+    "file": "cedric_eek.png",
+    "brightness": 66
+  },
+  {
+    "file": "en_upset_meow.png",
+    "brightness": 66
+  },
+  {
+    "file": "en_huh.png",
+    "brightness": 67
+  },
+  {
+    "file": "en_pancakes.png",
+    "brightness": 67
+  },
+  {
+    "file": "en_what.png",
+    "brightness": 67
+  },
+  {
+    "file": "en_what2.png",
+    "brightness": 67
+  },
+  {
+    "file": "en.png",
+    "brightness": 68
+  },
+  {
+    "file": "en2.png",
+    "brightness": 68
+  },
+  {
+    "file": "en3.png",
+    "brightness": 68
+  },
+  {
+    "file": "en4.png",
+    "brightness": 68
+  },
+  {
+    "file": "en5.png",
+    "brightness": 68
+  },
+  {
+    "file": "en6.png",
+    "brightness": 68
+  },
+  {
+    "file": "en_smile.png",
+    "brightness": 68
+  },
+  {
+    "file": "en_speak.png",
+    "brightness": 68
+  },
+  {
+    "file": "en_wtf.png",
+    "brightness": 68
+  },
+  {
+    "file": "en_wtf2.png",
+    "brightness": 68
+  },
+  {
+    "file": "calamus_heh.png",
+    "brightness": 69
+  },
+  {
+    "file": "en_shock.png",
+    "brightness": 69
+  },
+  {
+    "file": "en_surprised.png",
+    "brightness": 69
+  },
+  {
+    "file": "en_83c.png",
+    "brightness": 70
+  },
+  {
+    "file": "rue_sad.png",
+    "brightness": 70
+  },
+  {
+    "file": "rue_sigh.png",
+    "brightness": 70
+  },
+  {
+    "file": "calamus_shame.png",
+    "brightness": 71
+  },
+  {
+    "file": "calamus_smile2.png",
+    "brightness": 71
+  },
+  {
+    "file": "magpie.png",
+    "brightness": 71
+  },
+  {
+    "file": "magpie_hm.png",
+    "brightness": 71
+  },
+  {
+    "file": "magpie_smile.png",
+    "brightness": 71
+  },
+  {
+    "file": "plight.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight3.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight_2.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight_2b.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight_shock.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight_why.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight_worry.png",
+    "brightness": 72
+  },
+  {
+    "file": "plight_worry2.png",
+    "brightness": 72
+  },
+  {
+    "file": "calamus.png",
+    "brightness": 73
+  },
+  {
+    "file": "kip_sad.png",
+    "brightness": 73
+  },
+  {
+    "file": "kip_sigh.png",
+    "brightness": 73
+  },
+  {
+    "file": "plight_scared.png",
+    "brightness": 73
+  },
+  {
+    "file": "plight_sigh.png",
+    "brightness": 73
+  },
+  {
+    "file": "plight_wtf.png",
+    "brightness": 73
+  },
+  {
+    "file": "alula_pout.png",
+    "brightness": 74
+  },
+  {
+    "file": "calamus_smile.png",
+    "brightness": 74
+  },
+  {
+    "file": "calamus_speak.png",
+    "brightness": 74
+  },
+  {
+    "file": "kip_heh.png",
+    "brightness": 74
+  },
+  {
+    "file": "magpie_oh.png",
+    "brightness": 74
+  },
+  {
+    "file": "rue.png",
+    "brightness": 74
+  },
+  {
+    "file": "alula.png",
+    "brightness": 75
+  },
+  {
+    "file": "calamus_shock.png",
+    "brightness": 75
+  },
+  {
+    "file": "kip.png",
+    "brightness": 75
+  },
+  {
+    "file": "kip2.png",
+    "brightness": 75
+  },
+  {
+    "file": "kip_huh.png",
+    "brightness": 75
+  },
+  {
+    "file": "kip_pout.png",
+    "brightness": 75
+  },
+  {
+    "file": "kip_worry.png",
+    "brightness": 75
+  },
+  {
+    "file": "rue_talk.png",
+    "brightness": 75
+  },
+  {
+    "file": "rue_ttt.png",
+    "brightness": 75
+  },
+  {
+    "file": "alula_gasp2.png",
+    "brightness": 76
+  },
+  {
+    "file": "kip_wink.png",
+    "brightness": 76
+  },
+  {
+    "file": "alula_gasp.png",
+    "brightness": 77
+  },
+  {
+    "file": "alula_oh.png",
+    "brightness": 77
+  },
+  {
+    "file": "ling_sigh.png",
+    "brightness": 77
+  },
+  {
+    "file": "niko_cry.png",
+    "brightness": 77
+  },
+  {
+    "file": "rue_oh.png",
+    "brightness": 77
+  },
+  {
+    "file": "rue_smile.png",
+    "brightness": 77
+  },
+  {
+    "file": "ling_hm2.png",
+    "brightness": 79
+  },
+  {
+    "file": "ling_hm.png",
+    "brightness": 80
+  },
+  {
+    "file": "ling_smile.png",
+    "brightness": 80
+  },
+  {
+    "file": "silver_square2.png",
+    "brightness": 80
+  },
+  {
+    "file": "ling_oh.png",
+    "brightness": 81
+  },
+  {
+    "file": "prophet_sigh.png",
+    "brightness": 81
+  },
+  {
+    "file": "silver_rip2.png",
+    "brightness": 81
+  },
+  {
+    "file": "ling.png",
+    "brightness": 82
+  },
+  {
+    "file": "niko_eyeclosed.png",
+    "brightness": 82
+  },
+  {
+    "file": "niko_eyeclosed2.png",
+    "brightness": 82
+  },
+  {
+    "file": "niko_less_sad.png",
+    "brightness": 82
+  },
+  {
+    "file": "prophet_hmm.png",
+    "brightness": 82
+  },
+  {
+    "file": "silver_square1.png",
+    "brightness": 82
+  },
+  {
+    "file": "niko_distressed.png",
+    "brightness": 83
+  },
+  {
+    "file": "niko_distressed2.png",
+    "brightness": 83
+  },
+  {
+    "file": "niko_distressed_talk.png",
+    "brightness": 83
+  },
+  {
+    "file": "niko_sad.png",
+    "brightness": 83
+  },
+  {
+    "file": "niko_upset.png",
+    "brightness": 83
+  },
+  {
+    "file": "niko_upset2.png",
+    "brightness": 83
+  },
+  {
+    "file": "niko_yawn.png",
+    "brightness": 83
+  },
+  {
+    "file": "prophet.png",
+    "brightness": 83
+  },
+  {
+    "file": "silver_falling.png",
+    "brightness": 83
+  },
+  {
+    "file": "silver_rip.png",
+    "brightness": 83
+  },
+  {
+    "file": "silver_rip0.png",
+    "brightness": 83
+  },
+  {
+    "file": "ling2.png",
+    "brightness": 84
+  },
+  {
+    "file": "ling3.png",
+    "brightness": 84
+  },
+  {
+    "file": "ling_shock.png",
+    "brightness": 84
+  },
+  {
+    "file": "niko_distressed_meow.png",
+    "brightness": 84
+  },
+  {
+    "file": "silver_GETOUT.png",
+    "brightness": 84
+  },
+  {
+    "file": "niko_upset_meow.png",
+    "brightness": 85
+  },
+  {
+    "file": "niko_huh.png",
+    "brightness": 86
+  },
+  {
+    "file": "niko_pancakes.png",
+    "brightness": 86
+  },
+  {
+    "file": "niko_what.png",
+    "brightness": 86
+  },
+  {
+    "file": "niko_what2.png",
+    "brightness": 86
+  },
+  {
+    "file": "niko.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko2.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko3.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko4.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko5.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko_smile.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko_speak.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko_wtf.png",
+    "brightness": 87
+  },
+  {
+    "file": "niko_wtf2.png",
+    "brightness": 87
+  },
+  {
+    "file": "silver_eyeclosed.png",
+    "brightness": 87
+  },
+  {
+    "file": "maize_stress.png",
+    "brightness": 88
+  },
+  {
+    "file": "niko6.png",
+    "brightness": 88
+  },
+  {
+    "file": "niko_surprised.png",
+    "brightness": 88
+  },
+  {
+    "file": "proto2.png",
+    "brightness": 88
+  },
+  {
+    "file": "proto2b.png",
+    "brightness": 88
+  },
+  {
+    "file": "proto_eyeclosed.png",
+    "brightness": 88
+  },
+  {
+    "file": "silver.png",
+    "brightness": 88
+  },
+  {
+    "file": "maize_strain.png",
+    "brightness": 89
+  },
+  {
+    "file": "maize_thisisfine.png",
+    "brightness": 89
+  },
+  {
+    "file": "niko_shock.png",
+    "brightness": 89
+  },
+  {
+    "file": "proto1c.png",
+    "brightness": 89
+  },
+  {
+    "file": "proto_gasp2.png",
+    "brightness": 89
+  },
+  {
+    "file": "proto_jealous.png",
+    "brightness": 89
+  },
+  {
+    "file": "shepherd.png",
+    "brightness": 89
+  },
+  {
+    "file": "silver2.png",
+    "brightness": 89
+  },
+  {
+    "file": "silver_lookup.png",
+    "brightness": 89
+  },
+  {
+    "file": "silver_worry.png",
+    "brightness": 89
+  },
+  {
+    "file": "niko_83c.png",
+    "brightness": 90
+  },
+  {
+    "file": "prophet_omg.png",
+    "brightness": 90
+  },
+  {
+    "file": "proto_gasp1.png",
+    "brightness": 90
+  },
+  {
+    "file": "silver3.png",
+    "brightness": 90
+  },
+  {
+    "file": "proto1.png",
+    "brightness": 91
+  },
+  {
+    "file": "maize.png",
+    "brightness": 92
+  },
+  {
+    "file": "maize_smile1.png",
+    "brightness": 92
+  },
+  {
+    "file": "maize_smile2.png",
+    "brightness": 92
+  },
+  {
+    "file": "proto1b.png",
+    "brightness": 93
+  },
+  {
+    "file": "proto_disk.png",
+    "brightness": 93
+  },
+  {
+    "file": "watcher.png",
+    "brightness": 135
+  },
+  {
+    "file": "george6.png",
+    "brightness": 154
+  },
+  {
+    "file": "george5.png",
+    "brightness": 155
+  },
+  {
+    "file": "george3.png",
+    "brightness": 156
+  },
+  {
+    "file": "george4.png",
+    "brightness": 156
+  },
+  {
+    "file": "george5_sad.png",
+    "brightness": 157
+  },
+  {
+    "file": "george3_cry.png",
+    "brightness": 158
+  },
+  {
+    "file": "george6_fingerguns.png",
+    "brightness": 159
+  },
+  {
+    "file": "george2.png",
+    "brightness": 160
+  },
+  {
+    "file": "george2_sigh.png",
+    "brightness": 160
+  },
+  {
+    "file": "george3_sad.png",
+    "brightness": 160
+  },
+  {
+    "file": "george5_sigh.png",
+    "brightness": 160
+  },
+  {
+    "file": "george5_smile.png",
+    "brightness": 160
+  },
+  {
+    "file": "george6_smile.png",
+    "brightness": 160
+  },
+  {
+    "file": "george1.png",
+    "brightness": 161
+  },
+  {
+    "file": "george4_smile.png",
+    "brightness": 161
+  },
+  {
+    "file": "george6_point.png",
+    "brightness": 161
+  },
+  {
+    "file": "george2_grr.png",
+    "brightness": 163
+  },
+  {
+    "file": "george2_stress.png",
+    "brightness": 163
+  },
+  {
+    "file": "george1_smile.png",
+    "brightness": 164
+  },
+  {
+    "file": "george4_golly.png",
+    "brightness": 164
+  },
+  {
+    "file": "george5_hmm.png",
+    "brightness": 164
+  },
+  {
+    "file": "george2_NO.png",
+    "brightness": 166
+  },
+  {
+    "file": "george5_aww.png",
+    "brightness": 167
+  },
+  {
+    "file": "george6_shrug.png",
+    "brightness": 167
+  },
+  {
+    "file": "george3_sigh.png",
+    "brightness": 168
+  },
+  {
+    "file": "george1_smug.png",
+    "brightness": 169
+  },
+  {
+    "file": "george3_worry.png",
+    "brightness": 169
+  },
+  {
+    "file": "george4_omg.png",
+    "brightness": 169
+  },
+  {
+    "file": "george1_hm.png",
+    "brightness": 170
+  },
+  {
+    "file": "george5_heh.png",
+    "brightness": 171
+  },
+  {
+    "file": "george4_oops.png",
+    "brightness": 187
+  }
+]
