@@ -125,6 +125,7 @@ button {
   cursor: pointer; 
   border-radius: 4px; 
   transition: background 0.1s ease-in-out; 
+  /* i really like these transitions but dumb llms done took it fo rtheir glassslop sites and its so bad too */
 } 
 
 button:hover { 

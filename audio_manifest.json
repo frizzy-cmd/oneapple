@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "BGM_30 Factory",
+    "filename": "30 Factory.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/30 Factory.ogg",
+    "meta": {
+      "size_bytes": 1519290,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_AGod'sMachine",
+    "filename": "AGod'sMachine.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/AGod'sMachine.ogg",
+    "meta": {
+      "size_bytes": 2337026,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ambience",
+    "filename": "ambience.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ambience.ogg",
+    "meta": {
+      "size_bytes": 625985,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ambience2",
+    "filename": "ambience2.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ambience2.ogg",
+    "meta": {
+      "size_bytes": 480324,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ambience3",
+    "filename": "ambience3.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ambience3.ogg",
+    "meta": {
+      "size_bytes": 443646,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ambience4",
+    "filename": "ambience4.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ambience4.ogg",
+    "meta": {
+      "size_bytes": 368820,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_AviateOld",
+    "filename": "AviateOld.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/AviateOld.ogg",
+    "meta": {
+      "size_bytes": 1220205,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Aviator",
+    "filename": "Aviator.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Aviator.ogg",
+    "meta": {
+      "size_bytes": 1371537,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ChildrenOfTheRuins",
+    "filename": "ChildrenOfTheRuins.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ChildrenOfTheRuins.ogg",
+    "meta": {
+      "size_bytes": 1506340,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ChildrenOfTheRuins_piano",
+    "filename": "ChildrenOfTheRuins_piano.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ChildrenOfTheRuins_piano.ogg",
+    "meta": {
+      "size_bytes": 1624675,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Collapse",
+    "filename": "Collapse.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Collapse.ogg",
+    "meta": {
+      "size_bytes": 2019976,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Collapse_loop",
+    "filename": "Collapse_loop.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Collapse_loop.ogg",
+    "meta": {
+      "size_bytes": 1879559,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_computer_room",
+    "filename": "computer_room.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/computer_room.ogg",
+    "meta": {
+      "size_bytes": 878948,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Countdown",
+    "filename": "Countdown.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Countdown.ogg",
+    "meta": {
+      "size_bytes": 2749966,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_DarkStairwell",
+    "filename": "DarkStairwell.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/DarkStairwell.ogg",
+    "meta": {
+      "size_bytes": 858572,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_DeepMines",
+    "filename": "DeepMines.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/DeepMines.ogg",
+    "meta": {
+      "size_bytes": 2017180,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_DeepMinesPiano",
+    "filename": "DeepMinesPiano.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/DeepMinesPiano.ogg",
+    "meta": {
+      "size_bytes": 2023954,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Distant",
+    "filename": "Distant.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Distant.ogg",
+    "meta": {
+      "size_bytes": 225739,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_EleventhHour",
+    "filename": "EleventhHour.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/EleventhHour.ogg",
+    "meta": {
+      "size_bytes": 3023647,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Encounter",
+    "filename": "Encounter.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Encounter.ogg",
+    "meta": {
+      "size_bytes": 2020863,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Factory",
+    "filename": "Factory.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Factory.ogg",
+    "meta": {
+      "size_bytes": 1901498,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_FactoryQuiet",
+    "filename": "FactoryQuiet.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/FactoryQuiet.ogg",
+    "meta": {
+      "size_bytes": 141152,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Geothermal",
+    "filename": "Geothermal.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Geothermal.ogg",
+    "meta": {
+      "size_bytes": 2174621,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Home",
+    "filename": "Home.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Home.ogg",
+    "meta": {
+      "size_bytes": 1460650,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_InMemory",
+    "filename": "InMemory.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/InMemory.ogg",
+    "meta": {
+      "size_bytes": 1473644,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_IntoTheLight",
+    "filename": "IntoTheLight.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/IntoTheLight.ogg",
+    "meta": {
+      "size_bytes": 2295564,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_LibraryStroll",
+    "filename": "LibraryStroll.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/LibraryStroll.ogg",
+    "meta": {
+      "size_bytes": 1517346,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_mines maybe",
+    "filename": "mines maybe.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/mines maybe.ogg",
+    "meta": {
+      "size_bytes": 649766,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_MinesAmbience",
+    "filename": "MinesAmbience.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/MinesAmbience.ogg",
+    "meta": {
+      "size_bytes": 2391761,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_MinesAmbienceWind",
+    "filename": "MinesAmbienceWind.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/MinesAmbienceWind.ogg",
+    "meta": {
+      "size_bytes": 2234017,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_MyBurdenIsDead",
+    "filename": "MyBurdenIsDead.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/MyBurdenIsDead.ogg",
+    "meta": {
+      "size_bytes": 1374632,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_MyBurdenIsLight",
+    "filename": "MyBurdenIsLight.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/MyBurdenIsLight.ogg",
+    "meta": {
+      "size_bytes": 1135582,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Navigate",
+    "filename": "Navigate.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Navigate.ogg",
+    "meta": {
+      "size_bytes": 479583,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_NavigateExtended",
+    "filename": "NavigateExtended.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/NavigateExtended.ogg",
+    "meta": {
+      "size_bytes": 4258422,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_NikoAndTheWorldMachine",
+    "filename": "NikoAndTheWorldMachine.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/NikoAndTheWorldMachine.ogg",
+    "meta": {
+      "size_bytes": 2905552,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_OnLittleCatFeet",
+    "filename": "OnLittleCatFeet.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/OnLittleCatFeet.ogg",
+    "meta": {
+      "size_bytes": 3130146,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_OnLittleCatFeetPiano",
+    "filename": "OnLittleCatFeetPiano.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/OnLittleCatFeetPiano.ogg",
+    "meta": {
+      "size_bytes": 3168229,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Panic",
+    "filename": "Panic.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Panic.ogg",
+    "meta": {
+      "size_bytes": 702336,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Phosphor",
+    "filename": "Phosphor.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Phosphor.ogg",
+    "meta": {
+      "size_bytes": 2014411,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Phosphor_dark",
+    "filename": "Phosphor_dark.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Phosphor_dark.ogg",
+    "meta": {
+      "size_bytes": 1602267,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Pretty",
+    "filename": "Pretty.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Pretty.ogg",
+    "meta": {
+      "size_bytes": 620577,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_PrettyBad",
+    "filename": "PrettyBad.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/PrettyBad.ogg",
+    "meta": {
+      "size_bytes": 611688,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_PrettyNiceDay",
+    "filename": "PrettyNiceDay.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/PrettyNiceDay.ogg",
+    "meta": {
+      "size_bytes": 2192696,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_puzzle-solved-remix",
+    "filename": "puzzle-solved-remix.wav",
+    "category": "BGM",
+    "path": "audio/BGM/puzzle-solved-remix.wav",
+    "meta": {
+      "size_bytes": 18406444,
+      "type": "wav",
+      "duration_sec": 104.345,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "BGM_Rowbot",
+    "filename": "Rowbot.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Rowbot.ogg",
+    "meta": {
+      "size_bytes": 46751,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SelfContainedUniverse",
+    "filename": "SelfContainedUniverse.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SelfContainedUniverse.ogg",
+    "meta": {
+      "size_bytes": 2834672,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SelfContainedUniversePiano",
+    "filename": "SelfContainedUniversePiano.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SelfContainedUniversePiano.ogg",
+    "meta": {
+      "size_bytes": 2853675,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SelfContainedUniverseReprise",
+    "filename": "SelfContainedUniverseReprise.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SelfContainedUniverseReprise.ogg",
+    "meta": {
+      "size_bytes": 1007785,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SilverPoint",
+    "filename": "SilverPoint.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SilverPoint.ogg",
+    "meta": {
+      "size_bytes": 1104474,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SimpleSecrets",
+    "filename": "SimpleSecrets.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SimpleSecrets.ogg",
+    "meta": {
+      "size_bytes": 1488015,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Solstice",
+    "filename": "Solstice.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Solstice.ogg",
+    "meta": {
+      "size_bytes": 2158350,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SomeplaceIKnow",
+    "filename": "SomeplaceIKnow.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SomeplaceIKnow.ogg",
+    "meta": {
+      "size_bytes": 3587960,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Sonder",
+    "filename": "Sonder.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Sonder.ogg",
+    "meta": {
+      "size_bytes": 1414908,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SonderExtended",
+    "filename": "SonderExtended.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SonderExtended.ogg",
+    "meta": {
+      "size_bytes": 2501151,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_SonderExtendedGuitar",
+    "filename": "SonderExtendedGuitar.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/SonderExtendedGuitar.ogg",
+    "meta": {
+      "size_bytes": 2547866,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_Sunrise",
+    "filename": "Sunrise.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/Sunrise.ogg",
+    "meta": {
+      "size_bytes": 1245457,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_TheAuthor",
+    "filename": "TheAuthor.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/TheAuthor.ogg",
+    "meta": {
+      "size_bytes": 1362232,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_TheTower",
+    "filename": "TheTower.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/TheTower.ogg",
+    "meta": {
+      "size_bytes": 483617,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_TheTower2",
+    "filename": "TheTower2.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/TheTower2.ogg",
+    "meta": {
+      "size_bytes": 481532,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ToDream",
+    "filename": "ToDream.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ToDream.ogg",
+    "meta": {
+      "size_bytes": 1106184,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_ToSleep",
+    "filename": "ToSleep.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/ToSleep.ogg",
+    "meta": {
+      "size_bytes": 1186457,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGM_unreality",
+    "filename": "unreality.ogg",
+    "category": "BGM",
+    "path": "audio/BGM/unreality.ogg",
+    "meta": {
+      "size_bytes": 3031655,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "BGS_robot_room",
+    "filename": "robot_room.mp3",
+    "category": "BGS",
+    "path": "audio/BGS/robot_room.mp3",
+    "meta": {
+      "size_bytes": 146284,
+      "type": "mp3"
+    }
+  },
+  {
+    "id": "BGS_teleport_boop",
+    "filename": "teleport_boop.wav",
+    "category": "BGS",
+    "path": "audio/BGS/teleport_boop.wav",
+    "meta": {
+      "size_bytes": 512044,
+      "type": "wav",
+      "duration_sec": 5.805,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "BGS_tv_static",
+    "filename": "tv_static.ogg",
+    "category": "BGS",
+    "path": "audio/BGS/tv_static.ogg",
+    "meta": {
+      "size_bytes": 64912,
+      "type": "ogg"
+    }
+  },
+  {
+    "id": "ME_crescendo",
+    "filename": "crescendo.wav",
+    "category": "ME",
+    "path": "audio/ME/crescendo.wav",
+    "meta": {
+      "size_bytes": 1943596,
+      "type": "wav",
+      "duration_sec": 11.018,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_get_item",
+    "filename": "get_item.wav",
+    "category": "ME",
+    "path": "audio/ME/get_item.wav",
+    "meta": {
+      "size_bytes": 678352,
+      "type": "wav",
+      "duration_sec": 3.845,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_HELLO",
+    "filename": "HELLO.wav",
+    "category": "ME",
+    "path": "audio/ME/HELLO.wav",
+    "meta": {
+      "size_bytes": 43884,
+      "type": "wav",
+      "duration_sec": 1.37,
+      "sample_rate": 8000
+    }
+  },
+  {
+    "id": "ME_hungry",
+    "filename": "hungry.wav",
+    "category": "ME",
+    "path": "audio/ME/hungry.wav",
+    "meta": {
+      "size_bytes": 95752,
+      "type": "wav",
+      "duration_sec": 0.543,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_instruction1",
+    "filename": "instruction1.wav",
+    "category": "ME",
+    "path": "audio/ME/instruction1.wav",
+    "meta": {
+      "size_bytes": 891308,
+      "type": "wav",
+      "duration_sec": 5.052,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_instruction2",
+    "filename": "instruction2.wav",
+    "category": "ME",
+    "path": "audio/ME/instruction2.wav",
+    "meta": {
+      "size_bytes": 886432,
+      "type": "wav",
+      "duration_sec": 5.025,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_item_get",
+    "filename": "item_get.wav",
+    "category": "ME",
+    "path": "audio/ME/item_get.wav",
+    "meta": {
+      "size_bytes": 678352,
+      "type": "wav",
+      "duration_sec": 3.845,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_item_get_cut_off",
+    "filename": "item_get_cut_off.wav",
+    "category": "ME",
+    "path": "audio/ME/item_get_cut_off.wav",
+    "meta": {
+      "size_bytes": 263408,
+      "type": "wav",
+      "duration_sec": 1.493,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_major_puzzle_solved",
+    "filename": "major_puzzle_solved.wav",
+    "category": "ME",
+    "path": "audio/ME/major_puzzle_solved.wav",
+    "meta": {
+      "size_bytes": 1848016,
+      "type": "wav",
+      "duration_sec": 10.476,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_phone_dialtone",
+    "filename": "phone_dialtone.wav",
+    "category": "ME",
+    "path": "audio/ME/phone_dialtone.wav",
+    "meta": {
+      "size_bytes": 141466,
+      "type": "wav",
+      "duration_sec": 1.603,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_phone_number",
+    "filename": "phone_number.wav",
+    "category": "ME",
+    "path": "audio/ME/phone_number.wav",
+    "meta": {
+      "size_bytes": 88246,
+      "type": "wav",
+      "duration_sec": 1.0,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "ME_phone_outgoing",
+    "filename": "phone_outgoing.wav",
+    "category": "ME",
+    "path": "audio/ME/phone_outgoing.wav",
+    "meta": {
+      "size_bytes": 108948,
+      "type": "wav",
+      "duration_sec": 3.403,
+      "sample_rate": 16000
+    }
+  },
+  {
+    "id": "ME_sheep_victory",
+    "filename": "sheep_victory.wav",
+    "category": "ME",
+    "path": "audio/ME/sheep_victory.wav",
+    "meta": {
+      "size_bytes": 756168,
+      "type": "wav",
+      "duration_sec": 4.286,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_bell",
+    "filename": "bell.wav",
+    "category": "SE",
+    "path": "audio/SE/bell.wav",
+    "meta": {
+      "size_bytes": 307268,
+      "type": "wav",
+      "duration_sec": 1.742,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_branch_snap",
+    "filename": "branch_snap.wav",
+    "category": "SE",
+    "path": "audio/SE/branch_snap.wav",
+    "meta": {
+      "size_bytes": 55790,
+      "type": "wav",
+      "duration_sec": 0.632,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_camera_printing",
+    "filename": "camera_printing.wav",
+    "category": "SE",
+    "path": "audio/SE/camera_printing.wav",
+    "meta": {
+      "size_bytes": 252426,
+      "type": "wav",
+      "duration_sec": 1.43,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_camera_shutter1",
+    "filename": "camera_shutter1.wav",
+    "category": "SE",
+    "path": "audio/SE/camera_shutter1.wav",
+    "meta": {
+      "size_bytes": 20702,
+      "type": "wav",
+      "duration_sec": 0.234,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_camera_shutter2",
+    "filename": "camera_shutter2.wav",
+    "category": "SE",
+    "path": "audio/SE/camera_shutter2.wav",
+    "meta": {
+      "size_bytes": 77264,
+      "type": "wav",
+      "duration_sec": 0.438,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_camera_vintage",
+    "filename": "camera_vintage.wav",
+    "category": "SE",
+    "path": "audio/SE/camera_vintage.wav",
+    "meta": {
+      "size_bytes": 334452,
+      "type": "wav",
+      "duration_sec": 1.896,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_cat_1",
+    "filename": "cat_1.wav",
+    "category": "SE",
+    "path": "audio/SE/cat_1.wav",
+    "meta": {
+      "size_bytes": 120878,
+      "type": "wav",
+      "duration_sec": 1.37,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_cat_2",
+    "filename": "cat_2.wav",
+    "category": "SE",
+    "path": "audio/SE/cat_2.wav",
+    "meta": {
+      "size_bytes": 88382,
+      "type": "wav",
+      "duration_sec": 0.496,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_cat_3",
+    "filename": "cat_3.wav",
+    "category": "SE",
+    "path": "audio/SE/cat_3.wav",
+    "meta": {
+      "size_bytes": 244320,
+      "type": "wav",
+      "duration_sec": 1.384,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_cat_purr",
+    "filename": "cat_purr.wav",
+    "category": "SE",
+    "path": "audio/SE/cat_purr.wav",
+    "meta": {
+      "size_bytes": 245940,
+      "type": "wav",
+      "duration_sec": 1.394,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_clippers",
+    "filename": "clippers.wav",
+    "category": "SE",
+    "path": "audio/SE/clippers.wav",
+    "meta": {
+      "size_bytes": 210602,
+      "type": "wav",
+      "duration_sec": 2.387,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_debris",
+    "filename": "debris.wav",
+    "category": "SE",
+    "path": "audio/SE/debris.wav",
+    "meta": {
+      "size_bytes": 488248,
+      "type": "wav",
+      "duration_sec": 2.768,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_ding",
+    "filename": "ding.wav",
+    "category": "SE",
+    "path": "audio/SE/ding.wav",
+    "meta": {
+      "size_bytes": 318286,
+      "type": "wav",
+      "duration_sec": 1.802,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_dip",
+    "filename": "dip.wav",
+    "category": "SE",
+    "path": "audio/SE/dip.wav",
+    "meta": {
+      "size_bytes": 113152,
+      "type": "wav",
+      "duration_sec": 0.641,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_door_close",
+    "filename": "door_close.wav",
+    "category": "SE",
+    "path": "audio/SE/door_close.wav",
+    "meta": {
+      "size_bytes": 57388,
+      "type": "wav",
+      "duration_sec": 0.65,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_door_close_heavy",
+    "filename": "door_close_heavy.wav",
+    "category": "SE",
+    "path": "audio/SE/door_close_heavy.wav",
+    "meta": {
+      "size_bytes": 38040,
+      "type": "wav",
+      "duration_sec": 0.431,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_door_locked",
+    "filename": "door_locked.wav",
+    "category": "SE",
+    "path": "audio/SE/door_locked.wav",
+    "meta": {
+      "size_bytes": 67168,
+      "type": "wav",
+      "duration_sec": 0.699,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_door_open",
+    "filename": "door_open.wav",
+    "category": "SE",
+    "path": "audio/SE/door_open.wav",
+    "meta": {
+      "size_bytes": 57478,
+      "type": "wav",
+      "duration_sec": 0.326,
+      "sample_rate": 88200
+    }
+  },
+  {
+    "id": "SE_door_unlock",
+    "filename": "door_unlock.wav",
+    "category": "SE",
+    "path": "audio/SE/door_unlock.wav",
+    "meta": {
+      "size_bytes": 98358,
+      "type": "wav",
+      "duration_sec": 0.557,
+      "sample_rate": 88200
+    }
+  },
+  {
+    "id": "SE_elevator_bang",
+    "filename": "elevator_bang.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_bang.wav",
+    "meta": {
+      "size_bytes": 300960,
+      "type": "wav",
+      "duration_sec": 1.706,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_elevator_break",
+    "filename": "elevator_break.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_break.wav",
+    "meta": {
+      "size_bytes": 2206092,
+      "type": "wav",
+      "duration_sec": 5.745,
+      "sample_rate": 96000
+    }
+  },
+  {
+    "id": "SE_elevator_close",
+    "filename": "elevator_close.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_close.wav",
+    "meta": {
+      "size_bytes": 788340,
+      "type": "wav",
+      "duration_sec": 4.469,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_elevator_open",
+    "filename": "elevator_open.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_open.wav",
+    "meta": {
+      "size_bytes": 794960,
+      "type": "wav",
+      "duration_sec": 4.506,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_elevator_rumble",
+    "filename": "elevator_rumble.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_rumble.wav",
+    "meta": {
+      "size_bytes": 970244,
+      "type": "wav",
+      "duration_sec": 5.5,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_elevator_start",
+    "filename": "elevator_start.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_start.wav",
+    "meta": {
+      "size_bytes": 154588,
+      "type": "wav",
+      "duration_sec": 0.876,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_elevator_stop",
+    "filename": "elevator_stop.wav",
+    "category": "SE",
+    "path": "audio/SE/elevator_stop.wav",
+    "meta": {
+      "size_bytes": 375944,
+      "type": "wav",
+      "duration_sec": 2.131,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_fade_in",
+    "filename": "fade_in.wav",
+    "category": "SE",
+    "path": "audio/SE/fade_in.wav",
+    "meta": {
+      "size_bytes": 416684,
+      "type": "wav",
+      "duration_sec": 2.17,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_fade_in2",
+    "filename": "fade_in2.wav",
+    "category": "SE",
+    "path": "audio/SE/fade_in2.wav",
+    "meta": {
+      "size_bytes": 356444,
+      "type": "wav",
+      "duration_sec": 2.02,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_fade_in_echo",
+    "filename": "fade_in_echo.wav",
+    "category": "SE",
+    "path": "audio/SE/fade_in_echo.wav",
+    "meta": {
+      "size_bytes": 800684,
+      "type": "wav",
+      "duration_sec": 4.17,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_fade_in_fast_echo",
+    "filename": "fade_in_fast_echo.wav",
+    "category": "SE",
+    "path": "audio/SE/fade_in_fast_echo.wav",
+    "meta": {
+      "size_bytes": 535504,
+      "type": "wav",
+      "duration_sec": 2.789,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_fire_light",
+    "filename": "fire_light.wav",
+    "category": "SE",
+    "path": "audio/SE/fire_light.wav",
+    "meta": {
+      "size_bytes": 60832,
+      "type": "wav",
+      "duration_sec": 0.345,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_fridge_close",
+    "filename": "fridge_close.wav",
+    "category": "SE",
+    "path": "audio/SE/fridge_close.wav",
+    "meta": {
+      "size_bytes": 130228,
+      "type": "wav",
+      "duration_sec": 0.738,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_fridge_open",
+    "filename": "fridge_open.wav",
+    "category": "SE",
+    "path": "audio/SE/fridge_open.wav",
+    "meta": {
+      "size_bytes": 192908,
+      "type": "wav",
+      "duration_sec": 1.093,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_glitch1",
+    "filename": "glitch1.wav",
+    "category": "SE",
+    "path": "audio/SE/glitch1.wav",
+    "meta": {
+      "size_bytes": 318296,
+      "type": "wav",
+      "duration_sec": 1.801,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_glitch2",
+    "filename": "glitch2.wav",
+    "category": "SE",
+    "path": "audio/SE/glitch2.wav",
+    "meta": {
+      "size_bytes": 314052,
+      "type": "wav",
+      "duration_sec": 1.777,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_glitch3",
+    "filename": "glitch3.wav",
+    "category": "SE",
+    "path": "audio/SE/glitch3.wav",
+    "meta": {
+      "size_bytes": 662276,
+      "type": "wav",
+      "duration_sec": 3.751,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_gurgle",
+    "filename": "gurgle.wav",
+    "category": "SE",
+    "path": "audio/SE/gurgle.wav",
+    "meta": {
+      "size_bytes": 55628,
+      "type": "wav",
+      "duration_sec": 0.63,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_HELLO_big",
+    "filename": "HELLO_big.wav",
+    "category": "SE",
+    "path": "audio/SE/HELLO_big.wav",
+    "meta": {
+      "size_bytes": 126916,
+      "type": "wav",
+      "duration_sec": 3.965,
+      "sample_rate": 8000
+    }
+  },
+  {
+    "id": "SE_item_get",
+    "filename": "item_get.wav",
+    "category": "SE",
+    "path": "audio/SE/item_get.wav",
+    "meta": {
+      "size_bytes": 263408,
+      "type": "wav",
+      "duration_sec": 1.493,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_Kick",
+    "filename": "Kick.wav",
+    "category": "SE",
+    "path": "audio/SE/Kick.wav",
+    "meta": {
+      "size_bytes": 97100,
+      "type": "wav",
+      "duration_sec": 0.55,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_lock_into_place",
+    "filename": "lock_into_place.wav",
+    "category": "SE",
+    "path": "audio/SE/lock_into_place.wav",
+    "meta": {
+      "size_bytes": 104090,
+      "type": "wav",
+      "duration_sec": 1.18,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_menu_buzzer",
+    "filename": "menu_buzzer.wav",
+    "category": "SE",
+    "path": "audio/SE/menu_buzzer.wav",
+    "meta": {
+      "size_bytes": 10118,
+      "type": "wav",
+      "duration_sec": 0.114,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_menu_cancel",
+    "filename": "menu_cancel.wav",
+    "category": "SE",
+    "path": "audio/SE/menu_cancel.wav",
+    "meta": {
+      "size_bytes": 1071572,
+      "type": "wav",
+      "duration_sec": 6.074,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_menu_cursor",
+    "filename": "menu_cursor.wav",
+    "category": "SE",
+    "path": "audio/SE/menu_cursor.wav",
+    "meta": {
+      "size_bytes": 444768,
+      "type": "wav",
+      "duration_sec": 2.521,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_menu_decision",
+    "filename": "menu_decision.wav",
+    "category": "SE",
+    "path": "audio/SE/menu_decision.wav",
+    "meta": {
+      "size_bytes": 829896,
+      "type": "wav",
+      "duration_sec": 4.704,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_page",
+    "filename": "page.wav",
+    "category": "SE",
+    "path": "audio/SE/page.wav",
+    "meta": {
+      "size_bytes": 63976,
+      "type": "wav",
+      "duration_sec": 0.362,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_pc_denied",
+    "filename": "pc_denied.wav",
+    "category": "SE",
+    "path": "audio/SE/pc_denied.wav",
+    "meta": {
+      "size_bytes": 25190,
+      "type": "wav",
+      "duration_sec": 0.285,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_pc_granted",
+    "filename": "pc_granted.wav",
+    "category": "SE",
+    "path": "audio/SE/pc_granted.wav",
+    "meta": {
+      "size_bytes": 96654,
+      "type": "wav",
+      "duration_sec": 2.191,
+      "sample_rate": 22050
+    }
+  },
+  {
+    "id": "SE_pc_logon",
+    "filename": "pc_logon.wav",
+    "category": "SE",
+    "path": "audio/SE/pc_logon.wav",
+    "meta": {
+      "size_bytes": 582200,
+      "type": "wav",
+      "duration_sec": 3.297,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_pc_messagebox",
+    "filename": "pc_messagebox.wav",
+    "category": "SE",
+    "path": "audio/SE/pc_messagebox.wav",
+    "meta": {
+      "size_bytes": 178516,
+      "type": "wav",
+      "duration_sec": 1.012,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_pc_off",
+    "filename": "pc_off.wav",
+    "category": "SE",
+    "path": "audio/SE/pc_off.wav",
+    "meta": {
+      "size_bytes": 37456,
+      "type": "wav",
+      "duration_sec": 0.424,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_pc_on",
+    "filename": "pc_on.wav",
+    "category": "SE",
+    "path": "audio/SE/pc_on.wav",
+    "meta": {
+      "size_bytes": 34636,
+      "type": "wav",
+      "duration_sec": 0.392,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_pen",
+    "filename": "pen.wav",
+    "category": "SE",
+    "path": "audio/SE/pen.wav",
+    "meta": {
+      "size_bytes": 205928,
+      "type": "wav",
+      "duration_sec": 1.167,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_phone_dialtone",
+    "filename": "phone_dialtone.wav",
+    "category": "SE",
+    "path": "audio/SE/phone_dialtone.wav",
+    "meta": {
+      "size_bytes": 93632,
+      "type": "wav",
+      "duration_sec": 1.061,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_phone_outgoing",
+    "filename": "phone_outgoing.wav",
+    "category": "SE",
+    "path": "audio/SE/phone_outgoing.wav",
+    "meta": {
+      "size_bytes": 53572,
+      "type": "wav",
+      "duration_sec": 1.673,
+      "sample_rate": 16000
+    }
+  },
+  {
+    "id": "SE_quake",
+    "filename": "quake.wav",
+    "category": "SE",
+    "path": "audio/SE/quake.wav",
+    "meta": {
+      "size_bytes": 1403896,
+      "type": "wav",
+      "duration_sec": 7.958,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_robot_room",
+    "filename": "robot_room.mp3",
+    "category": "SE",
+    "path": "audio/SE/robot_room.mp3",
+    "meta": {
+      "size_bytes": 146284,
+      "type": "mp3"
+    }
+  },
+  {
+    "id": "SE_robot_spin",
+    "filename": "robot_spin.wav",
+    "category": "SE",
+    "path": "audio/SE/robot_spin.wav",
+    "meta": {
+      "size_bytes": 129776,
+      "type": "wav",
+      "duration_sec": 0.735,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_robot_spin2",
+    "filename": "robot_spin2.wav",
+    "category": "SE",
+    "path": "audio/SE/robot_spin2.wav",
+    "meta": {
+      "size_bytes": 154516,
+      "type": "wav",
+      "duration_sec": 0.875,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_secret",
+    "filename": "secret.wav",
+    "category": "SE",
+    "path": "audio/SE/secret.wav",
+    "meta": {
+      "size_bytes": 185168,
+      "type": "wav",
+      "duration_sec": 2.098,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_seed_drop",
+    "filename": "seed_drop.wav",
+    "category": "SE",
+    "path": "audio/SE/seed_drop.wav",
+    "meta": {
+      "size_bytes": 13482,
+      "type": "wav",
+      "duration_sec": 0.152,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_shatter",
+    "filename": "shatter.wav",
+    "category": "SE",
+    "path": "audio/SE/shatter.wav",
+    "meta": {
+      "size_bytes": 334332,
+      "type": "wav",
+      "duration_sec": 1.895,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep1",
+    "filename": "sheep1.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep1.wav",
+    "meta": {
+      "size_bytes": 233704,
+      "type": "wav",
+      "duration_sec": 1.325,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep2",
+    "filename": "sheep2.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep2.wav",
+    "meta": {
+      "size_bytes": 163876,
+      "type": "wav",
+      "duration_sec": 0.929,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep3",
+    "filename": "sheep3.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep3.wav",
+    "meta": {
+      "size_bytes": 216696,
+      "type": "wav",
+      "duration_sec": 1.228,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep4",
+    "filename": "sheep4.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep4.wav",
+    "meta": {
+      "size_bytes": 231024,
+      "type": "wav",
+      "duration_sec": 1.309,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep5",
+    "filename": "sheep5.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep5.wav",
+    "meta": {
+      "size_bytes": 243556,
+      "type": "wav",
+      "duration_sec": 1.38,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep6",
+    "filename": "sheep6.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep6.wav",
+    "meta": {
+      "size_bytes": 236392,
+      "type": "wav",
+      "duration_sec": 1.34,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep7",
+    "filename": "sheep7.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep7.wav",
+    "meta": {
+      "size_bytes": 263252,
+      "type": "wav",
+      "duration_sec": 1.492,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_sheep_demon",
+    "filename": "sheep_demon.wav",
+    "category": "SE",
+    "path": "audio/SE/sheep_demon.wav",
+    "meta": {
+      "size_bytes": 354720,
+      "type": "wav",
+      "duration_sec": 2.011,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_small_quake",
+    "filename": "small_quake.wav",
+    "category": "SE",
+    "path": "audio/SE/small_quake.wav",
+    "meta": {
+      "size_bytes": 343700,
+      "type": "wav",
+      "duration_sec": 1.948,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_spark",
+    "filename": "spark.wav",
+    "category": "SE",
+    "path": "audio/SE/spark.wav",
+    "meta": {
+      "size_bytes": 13554,
+      "type": "wav",
+      "duration_sec": 0.153,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_square-death - Copy",
+    "filename": "square-death - Copy.wav",
+    "category": "SE",
+    "path": "audio/SE/square-death - Copy.wav",
+    "meta": {
+      "size_bytes": 179756,
+      "type": "wav",
+      "duration_sec": 1.019,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_square-death",
+    "filename": "square-death.wav",
+    "category": "SE",
+    "path": "audio/SE/square-death.wav",
+    "meta": {
+      "size_bytes": 304896,
+      "type": "wav",
+      "duration_sec": 1.728,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_boat",
+    "filename": "step_boat.wav",
+    "category": "SE",
+    "path": "audio/SE/step_boat.wav",
+    "meta": {
+      "size_bytes": 175604,
+      "type": "wav",
+      "duration_sec": 0.914,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_grass",
+    "filename": "step_grass.wav",
+    "category": "SE",
+    "path": "audio/SE/step_grass.wav",
+    "meta": {
+      "size_bytes": 74584,
+      "type": "wav",
+      "duration_sec": 0.423,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_grate",
+    "filename": "step_grate.wav",
+    "category": "SE",
+    "path": "audio/SE/step_grate.wav",
+    "meta": {
+      "size_bytes": 45910,
+      "type": "wav",
+      "duration_sec": 0.52,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_grate_soft",
+    "filename": "step_grate_soft.wav",
+    "category": "SE",
+    "path": "audio/SE/step_grate_soft.wav",
+    "meta": {
+      "size_bytes": 45910,
+      "type": "wav",
+      "duration_sec": 0.52,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_gravel",
+    "filename": "step_gravel.wav",
+    "category": "SE",
+    "path": "audio/SE/step_gravel.wav",
+    "meta": {
+      "size_bytes": 19624,
+      "type": "wav",
+      "duration_sec": 0.22,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_metal01",
+    "filename": "step_metal01.wav",
+    "category": "SE",
+    "path": "audio/SE/step_metal01.wav",
+    "meta": {
+      "size_bytes": 69104,
+      "type": "wav",
+      "duration_sec": 0.719,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_metal02",
+    "filename": "step_metal02.wav",
+    "category": "SE",
+    "path": "audio/SE/step_metal02.wav",
+    "meta": {
+      "size_bytes": 80058,
+      "type": "wav",
+      "duration_sec": 0.833,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_metal03",
+    "filename": "step_metal03.wav",
+    "category": "SE",
+    "path": "audio/SE/step_metal03.wav",
+    "meta": {
+      "size_bytes": 62900,
+      "type": "wav",
+      "duration_sec": 0.655,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_metal04",
+    "filename": "step_metal04.wav",
+    "category": "SE",
+    "path": "audio/SE/step_metal04.wav",
+    "meta": {
+      "size_bytes": 55076,
+      "type": "wav",
+      "duration_sec": 0.573,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_splash",
+    "filename": "step_splash.wav",
+    "category": "SE",
+    "path": "audio/SE/step_splash.wav",
+    "meta": {
+      "size_bytes": 32882,
+      "type": "wav",
+      "duration_sec": 0.372,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_splash2",
+    "filename": "step_splash2.wav",
+    "category": "SE",
+    "path": "audio/SE/step_splash2.wav",
+    "meta": {
+      "size_bytes": 35448,
+      "type": "wav",
+      "duration_sec": 0.184,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_splash3",
+    "filename": "step_splash3.wav",
+    "category": "SE",
+    "path": "audio/SE/step_splash3.wav",
+    "meta": {
+      "size_bytes": 80684,
+      "type": "wav",
+      "duration_sec": 0.42,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_splash4",
+    "filename": "step_splash4.wav",
+    "category": "SE",
+    "path": "audio/SE/step_splash4.wav",
+    "meta": {
+      "size_bytes": 10203508,
+      "type": "wav",
+      "duration_sec": 35.425,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_splash5",
+    "filename": "step_splash5.wav",
+    "category": "SE",
+    "path": "audio/SE/step_splash5.wav",
+    "meta": {
+      "size_bytes": 73604,
+      "type": "wav",
+      "duration_sec": 0.383,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_step_splash6",
+    "filename": "step_splash6.wav",
+    "category": "SE",
+    "path": "audio/SE/step_splash6.wav",
+    "meta": {
+      "size_bytes": 26036,
+      "type": "wav",
+      "duration_sec": 0.147,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile01",
+    "filename": "step_tile01.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile01.wav",
+    "meta": {
+      "size_bytes": 20784,
+      "type": "wav",
+      "duration_sec": 0.235,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile02",
+    "filename": "step_tile02.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile02.wav",
+    "meta": {
+      "size_bytes": 31286,
+      "type": "wav",
+      "duration_sec": 0.354,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile03",
+    "filename": "step_tile03.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile03.wav",
+    "meta": {
+      "size_bytes": 28998,
+      "type": "wav",
+      "duration_sec": 0.328,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile04",
+    "filename": "step_tile04.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile04.wav",
+    "meta": {
+      "size_bytes": 41520,
+      "type": "wav",
+      "duration_sec": 0.47,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile_echo",
+    "filename": "step_tile_echo.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile_echo.wav",
+    "meta": {
+      "size_bytes": 307268,
+      "type": "wav",
+      "duration_sec": 1.742,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile_soft01",
+    "filename": "step_tile_soft01.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile_soft01.wav",
+    "meta": {
+      "size_bytes": 108984,
+      "type": "wav",
+      "duration_sec": 1.235,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile_soft02",
+    "filename": "step_tile_soft02.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile_soft02.wav",
+    "meta": {
+      "size_bytes": 31286,
+      "type": "wav",
+      "duration_sec": 0.354,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile_soft03",
+    "filename": "step_tile_soft03.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile_soft03.wav",
+    "meta": {
+      "size_bytes": 28998,
+      "type": "wav",
+      "duration_sec": 0.328,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_tile_soft04",
+    "filename": "step_tile_soft04.wav",
+    "category": "SE",
+    "path": "audio/SE/step_tile_soft04.wav",
+    "meta": {
+      "size_bytes": 41520,
+      "type": "wav",
+      "duration_sec": 0.47,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_step_wood",
+    "filename": "step_wood.wav",
+    "category": "SE",
+    "path": "audio/SE/step_wood.wav",
+    "meta": {
+      "size_bytes": 16428,
+      "type": "wav",
+      "duration_sec": 0.186,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_take_lens_out",
+    "filename": "take_lens_out.wav",
+    "category": "SE",
+    "path": "audio/SE/take_lens_out.wav",
+    "meta": {
+      "size_bytes": 90382,
+      "type": "wav",
+      "duration_sec": 1.024,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_teleport",
+    "filename": "teleport.wav",
+    "category": "SE",
+    "path": "audio/SE/teleport.wav",
+    "meta": {
+      "size_bytes": 105036,
+      "type": "wav",
+      "duration_sec": 1.19,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_teleport_long",
+    "filename": "teleport_long.wav",
+    "category": "SE",
+    "path": "audio/SE/teleport_long.wav",
+    "meta": {
+      "size_bytes": 318836,
+      "type": "wav",
+      "duration_sec": 3.614,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_text",
+    "filename": "text.wav",
+    "category": "SE",
+    "path": "audio/SE/text.wav",
+    "meta": {
+      "size_bytes": 23756,
+      "type": "wav",
+      "duration_sec": 0.134,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_text_robot",
+    "filename": "text_robot.wav",
+    "category": "SE",
+    "path": "audio/SE/text_robot.wav",
+    "meta": {
+      "size_bytes": 5522,
+      "type": "wav",
+      "duration_sec": 0.061,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_tick",
+    "filename": "tick.wav",
+    "category": "SE",
+    "path": "audio/SE/tick.wav",
+    "meta": {
+      "size_bytes": 156600,
+      "type": "wav",
+      "duration_sec": 0.815,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_title_cursor",
+    "filename": "title_cursor.wav",
+    "category": "SE",
+    "path": "audio/SE/title_cursor.wav",
+    "meta": {
+      "size_bytes": 31956,
+      "type": "wav",
+      "duration_sec": 0.181,
+      "sample_rate": 44100
+    }
+  },
+  {
+    "id": "SE_title_decision",
+    "filename": "title_decision.wav",
+    "category": "SE",
+    "path": "audio/SE/title_decision.wav",
+    "meta": {
+      "size_bytes": 10472,
+      "type": "wav",
+      "duration_sec": 0.109,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_tock",
+    "filename": "tock.wav",
+    "category": "SE",
+    "path": "audio/SE/tock.wav",
+    "meta": {
+      "size_bytes": 156600,
+      "type": "wav",
+      "duration_sec": 0.815,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_wheel_squeak",
+    "filename": "wheel_squeak.wav",
+    "category": "SE",
+    "path": "audio/SE/wheel_squeak.wav",
+    "meta": {
+      "size_bytes": 56538,
+      "type": "wav",
+      "duration_sec": 0.588,
+      "sample_rate": 48000
+    }
+  },
+  {
+    "id": "SE_wheel_squeak1",
+    "filename": "wheel_squeak1.wav",
+    "category": "SE",
+    "path": "audio/SE/wheel_squeak1.wav",
+    "meta": {
+      "size_bytes": 73868,
+      "type": "wav",
+      "duration_sec": 0.419,
+      "sample_rate": 44100
+    }
+  }
+]

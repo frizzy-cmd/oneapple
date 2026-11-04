@@ -1,21 +1,45 @@
 import { initControls } from './controls.js';
+import { AudioEngine } from './audio-eng.js';
+
+const audioEngine = new AudioEngine();
+let audioMosaicEnabled = false;
+
+//fixed race condition
+audioEngine.init();
 
 // start vars
+
+// VIDEO
 let COLS = 64;
 let ROWS = 48;
 let CELL_SIZE = 16;
+let lastRenderTime = 0;
+const fpsInterval = 1000 / 30;
+// Lol const
 
+let currentGridFaces = [];
+let frameCounter = 0;
+
+// TIME SEEK BAR THING
+let isSeeking = false; // not hide and seek
+let queuedSeek = null;
+let lastSeekTarget = null;
+
+// CANVAS
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 
+// CANVAS (B)
 const offscreen = document.getElementById('offscreen-canvas');
-const offCtx = offscreen.getContext('2d');
+const offCtx = offscreen.getContext('2d', { willReadFrequently: true });
 
+// OTHER ESSENTIAL UI
 const video = document.getElementById('badapple-video');
 const playBtn = document.getElementById('play-btn');
 const togglePreviewBtn = document.getElementById('toggle-preview-btn');
 const previewContainer = document.getElementById('preview-container');
 const resetZoomBtn = document.getElementById('reset-zoom-btn');
+const toggleAudioMosaicBtn = document.getElementById('toggle-audio-mosaic-btn');
 const seekBar = document.getElementById('seek-bar');
 const currentTimeLabel = document.getElementById('current-time-label');
 const durationLabel = document.getElementById('duration-label');
@@ -38,6 +62,7 @@ const logFace = document.getElementById('log-face');
 const frameFacesList = document.getElementById('frame-faces-list');
 const container = document.getElementById('canvas-container');
 
+// ETC
 let manifest = [];
 let faceImages = [];
 let isLoaded = false;
@@ -62,7 +87,7 @@ function updateDimensions() {
 
 updateDimensions();
 
-// load faces
+// load faces and fix race condition where autoplay misses render initialization
 async function init() {
     try {
         const res = await fetch('manifest.json');
@@ -75,23 +100,49 @@ async function init() {
             img.src = `faces/${item.file}`;
             img.onload = () => {
                 loadedCount++;
-                if (loadedCount === manifest.length) {
-                    isLoaded = true;
-                    logStatus.textContent = "Ready!";
-                }
+                checkLoaded();
+            };
+            img.onerror = () => {
+                loadedCount++;
+                checkLoaded();
             };
             return img;
         });
+
+        function checkLoaded() {
+            if (loadedCount === manifest.length) {
+                isLoaded = true;
+                logStatus.textContent = "Ready!";
+                console.log("OK WE ARE GOOD TO GO!!!!!!!!!!")
+                // if video started playing before assets finished loading, kick off render loop now!
+                if (!video.paused) {
+                    requestAnimationFrame(render);
+                }
+            }
+        }
     } catch (err) {
         logStatus.textContent = "Error loading manifest.json";
-        console.error("Failed to load manifest.json.. does it exist in root??", err);
+        console.error("Failed to load manifest.json", err);
     }
 }
 
 init();
 
-let currentGridFaces = [];
-let frameCounter = 0;
+async function loadVideo() {
+    try {
+        logStatus.textContent = "Loading video...";
+        console.log("MIC CHECK MIC CHECK")
+        const res = await fetch('badapple.mp4');
+        if (!res.ok) throw new Error(res.status);
+        const blob = await res.blob();
+        video.src = URL.createObjectURL(blob);
+        video.play().catch(() => {});
+    } catch (err) {
+        console.error("Failed to load! Is using video.src now!", err);
+        video.src = 'badapple.mp4';
+    }
+}
+loadVideo();
 
 function formatTime(seconds) {
     let m = Math.floor(seconds / 60);
@@ -100,12 +151,8 @@ function formatTime(seconds) {
 }
 
 video.addEventListener('loadedmetadata', () => {
-    // durationLabel.textContent = formatTime(video.duration);
     seekBar.max = video.duration;
 });
-
-let lastRenderTime = 0;
-const fpsInterval = 1000 / 30;
 
 function render(timestamp = 0) {
     if (!isLoaded) return;
@@ -123,7 +170,7 @@ function render(timestamp = 0) {
     logTime.textContent = video.currentTime.toFixed(2) + 's';
     logGrid.textContent = `${COLS}x${ROWS}`;
     
-    if (!video.paused) {
+    if (!video.paused && !isSeeking && !video.seeking) {
         seekBar.value = video.currentTime;
         currentTimeLabel.textContent = formatTime(video.currentTime);
     }
@@ -182,6 +229,13 @@ function render(timestamp = 0) {
             faviconLink.href = faviconCanvas.toDataURL('image/png');
         }
     }
+
+    if (audioMosaicEnabled && !video.paused) {
+        if (frameCounter % 6 === 0) {
+            const cat = Math.random() > 0.75 ? 'ME' : 'SE';
+            audioEngine.playRand(cat, 0.35);
+        }
+    }
 }
 
 function takeSnapshot() {
@@ -208,11 +262,65 @@ video.addEventListener('ended', () => {
     logStatus.textContent = "Ended";
 });
 
-seekBar.addEventListener('input', () => {
-    video.currentTime = seekBar.value;
-    currentTimeLabel.textContent = formatTime(video.currentTime);
-    render();
+// SEEK BAR SHIT START
+function updSkBarMax() {
+    if (!isNaN(video.duration) && video.duration > 0) {
+        seekBar.max = video.duration;
+    }
+}
+if (video.readyState >= 1) updSkBarMax();
+video.addEventListener('loadedmetadata', updSkBarMax);
+video.addEventListener('durationchange', updSkBarMax);
+
+function seekTo(t) {
+    if (isNaN(t)) return;
+    if (t === lastSeekTarget) return;
+    lastSeekTarget = t;
+    if (video.seeking) {
+        queuedSeek = t;
+    } else {
+        video.currentTime = t;
+    }
+}
+
+video.addEventListener('seeked', () => {
+    if (queuedSeek !== null) {
+        const t = queuedSeek;
+        queuedSeek = null;
+        video.currentTime = t;
+        return;
+    }
+    if (video.paused) render();
 });
+
+seekBar.addEventListener('pointerdown', () => { isSeeking = true; });
+
+seekBar.addEventListener('input', () => {
+    isSeeking = true;
+    const t = parseFloat(seekBar.value);
+    currentTimeLabel.textContent = formatTime(t);
+    seekTo(t);
+});
+
+function endScrub() {
+    if (!isSeeking) return;
+    isSeeking = false;
+    seekTo(parseFloat(seekBar.value));
+    lastSeekTarget = null;
+}
+
+seekBar.addEventListener('change', endScrub);
+window.addEventListener('pointerup', endScrub);
+window.addEventListener('pointercancel', endScrub);
+
+seekBar.addEventListener('input', () => {
+    isSeeking = true;
+    const targetTime = parseFloat(seekBar.value);
+    currentTimeLabel.textContent = formatTime(targetTime);
+});
+//revamped seekbar a bit
+// thank YOU to my friend who helped debug this
+// god it shouldnt have been this hard to update this.
 
 function updateTf() {
     canvas.style.transform = `translate(${panX}px, ${panY}px) scale(${scale})`;
@@ -330,3 +438,29 @@ togglePreviewBtn.addEventListener('click', () => {
         togglePreviewBtn.textContent = 'Toggle preview: hidden';
     }
 });
+
+if (toggleAudioMosaicBtn) {
+    toggleAudioMosaicBtn.addEventListener('click', () => {
+        if (!audioMosaicEnabled) {
+            
+            const confirmed = window.confirm("Warning: This is an experimental feature. May just be bs stitched together. Do still want to PROCEED?");
+
+            if (confirmed) {
+                audioMosaicEnabled = true;
+                video.muted = true;
+                toggleAudioMosaicBtn.textContent = 'OneShot audio: on';
+                toggleAudioMosaicBtn.style.background = '#a00808';
+                alert("Basically, this just tries to replicate Bad Apple's audio using OneShot's audio files (with the exclusion of BGM as its too long & resource heavy). Hope you have fun!")
+            }
+            
+        } else {
+            audioMosaicEnabled = false;
+            video.muted = false;
+            audioEngine.stopAll();
+            toggleAudioMosaicBtn.textContent = 'OneShot audio: off';
+            toggleAudioMosaicBtn.style.background = '#222';
+        }
+    });
+}
+
+// :D

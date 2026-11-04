@@ -31,6 +31,8 @@ export function initControls(config) {
     });
 }
 
+console.log("controls OK")
+
 // controls and alsoh andles grid button
 
 // if you see this, hi!
